@@ -1,0 +1,206 @@
+[
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/comun.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/comun.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/inicio.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/inicio.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/login.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/login.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/principal.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/principal.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/usuario.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/usuario.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/pluginsSGA_v0006/material-cards-master/material-general.min.js",
+    "inputFiles": [
+      "Content/pluginsSGA_v0006/material-cards-master/material-general.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/pluginsSGA_v0006/material-cards-master/format-cards.min.css",
+    "inputFiles": [
+      "Content/pluginsSGA_v0006/material-cards-master/format-cards.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/pluginsSGA_v0006/material-cards-master/dist/material-cards.min.css",
+    "inputFiles": [
+      "Content/pluginsSGA_v0006/material-cards-master/dist/material-cards.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/form-elements.min.css",
+    "inputFiles": [
+      "assets/css/form-elements.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/css/style.min.css",
+    "inputFiles": [
+      "assets/css/style.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/js/scripts.min.js",
+    "inputFiles": [
+      "assets/js/scripts.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/pluginsSGA_v0006/objetos/btn_dinamico.min.css",
+    "inputFiles": [
+      "Content/pluginsSGA_v0006/objetos/btn_dinamico.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css",
+    "inputFiles": [
+      "Content/plugins/datatables-bs4/css/dataTables.bootstrap4.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/plugins/datatables/jquery.dataTables.min.js",
+    "inputFiles": [
+      "Content/plugins/datatables/jquery.dataTables.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js",
+    "inputFiles": [
+      "Content/plugins/datatables-bs4/js/dataTables.bootstrap4.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/js/sweetalert2@8.min.js",
+    "inputFiles": [
+      "assets/js/sweetalert2@8.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/font-awesome/fonts/font-Roboto.min.css",
+    "inputFiles": [
+      "assets/font-awesome/fonts/font-Roboto.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/eleccion.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/eleccion.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/delegado.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/delegado.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/js.cookie.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/js.cookie.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/bitacora.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/bitacora.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/resultado_resumen.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/resultado_resumen.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/css/principal.min.css",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/css/principal.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/votacion_progreso.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/votacion_progreso.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/gestion.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/gestion.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/flipclock.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/flipclock.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/css/flipclock.min.css",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/css/flipclock.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/quorum.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/quorum.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/pluginsSGA_v0006/material-cards-master/material-general.min.css",
+    "inputFiles": [
+      "Content/pluginsSGA_v0006/material-cards-master/material-general.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/dispositivo.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/dispositivo.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/reportes.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/reportes.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0002/js/reportes.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0002/js/reportes.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scriptsSGA_v0006/js/menu.min.js",
+    "inputFiles": [
+      "Content/scriptsSGA_v0006/js/menu.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css",
+    "inputFiles": [
+      "Content/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.css"
+    ]
+  }
+]

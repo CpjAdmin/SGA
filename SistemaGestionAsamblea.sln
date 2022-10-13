@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotacionesSGA", "VotacionesSGA\VotacionesSGA.csproj", "{3AF032FC-8C98-48E8-8E00-0CC0626796D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGA.WebAPI", "SGA.WebAPI\SGA.WebAPI.csproj", "{E14BBC7C-87E4-41C6-A6AB-94293B5CF26B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGA.Dao", "SGA.Dao\SGA.Dao.csproj", "{01D820BA-FDD4-4630-B72E-88799A4DA872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGA.Dominio", "SGA.Dominio\SGA.Dominio.csproj", "{121926A1-3AFE-4DE4-900F-5C07BCF62EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF032FC-8C98-48E8-8E00-0CC0626796D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF032FC-8C98-48E8-8E00-0CC0626796D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF032FC-8C98-48E8-8E00-0CC0626796D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF032FC-8C98-48E8-8E00-0CC0626796D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14BBC7C-87E4-41C6-A6AB-94293B5CF26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14BBC7C-87E4-41C6-A6AB-94293B5CF26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14BBC7C-87E4-41C6-A6AB-94293B5CF26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14BBC7C-87E4-41C6-A6AB-94293B5CF26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D820BA-FDD4-4630-B72E-88799A4DA872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D820BA-FDD4-4630-B72E-88799A4DA872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D820BA-FDD4-4630-B72E-88799A4DA872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D820BA-FDD4-4630-B72E-88799A4DA872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121926A1-3AFE-4DE4-900F-5C07BCF62EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121926A1-3AFE-4DE4-900F-5C07BCF62EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121926A1-3AFE-4DE4-900F-5C07BCF62EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121926A1-3AFE-4DE4-900F-5C07BCF62EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017062CB-304A-40D5-990C-D8C05E30F93D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://danubio/coopecajacollection
+		SccProjectUniqueName0 = SGA.Dao\\SGA.Dao.csproj
+		SccProjectName0 = SGA.Dao
+		SccLocalPath0 = SGA.Dao
+		SccProjectUniqueName1 = SGA.Dominio\\SGA.Dominio.csproj
+		SccProjectName1 = SGA.Dominio
+		SccLocalPath1 = SGA.Dominio
+		SccProjectUniqueName2 = SGA.WebAPI\\SGA.WebAPI.csproj
+		SccProjectName2 = SGA.WebAPI
+		SccLocalPath2 = SGA.WebAPI
+		SccLocalPath3 = .
+		SccProjectUniqueName4 = VotacionesSGA\\VotacionesSGA.csproj
+		SccProjectName4 = VotacionesSGA
+		SccLocalPath4 = VotacionesSGA
+	EndGlobalSection
+EndGlobal

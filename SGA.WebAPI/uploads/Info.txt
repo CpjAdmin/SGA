@@ -1,0 +1,7 @@
+﻿Este directorio se utiliza para la carga masiva de usuarios y delegados.
+
+Requiere:
+1 - Permisos Lectora y Esceitura en la carpeta del servidor de aplicación.
+2 - Utilizar los formularios ubicados en VotacionesSGA/Documents/PlantillasCarga/
+	- DELEGADOSSGA.xlsx
+	- USUARIOSSGA.xlsx

@@ -1,0 +1,170 @@
+.content {
+    padding: 10px 20px 5px 20px !important;
+}
+
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5 {
+    min-height: 1px;
+    position: relative;
+}
+
+.col-xs-5 {
+    float: left;
+    width: 20%;
+}
+/*MAYOR a 768px*/
+@media (min-width: 768px) {
+
+    .col-sm-5 {
+        float: left;
+        width: 20%;
+    }
+
+    .col-lg-5 .fa-5x {
+        font-size: 4em;
+    }
+    /*Ubicación del check rojo*/
+    .material-card.mc-active .mc-description {
+        padding: 30% 30px 10px 30px;
+    }
+}
+/*MAYOR a 992px*/
+@media (min-width: 992px) {
+
+    .col-md-5 {
+        float: left;
+        width: 20%;
+    }
+    /*Ubicación del check rojo*/
+    .material-card.mc-active .mc-description {
+        padding: 30% 30px 30px 30px;
+    }
+}
+
+/*MAYOR a 1200px*/
+@media (min-width: 1200px) {
+
+    .col-lg-5 {
+        float: left;
+        width: 20%;
+    }
+
+        .col-lg-5 .fa-5x {
+            font-size: 3em;
+        }
+
+    /*Ubicación del check rojo*/
+    .material-card.mc-active .mc-description {
+        padding: 30% 30px 10px 30px;
+    }
+}
+/*MAYOR a 1500px*/
+@media (min-width: 1500px) {
+    .container {
+        width: 1370px;
+    }
+
+    .col-lg-5 .fa-5x {
+        font-size: 4em;
+    }
+
+    /*Ubicación del check rojo*/
+    .material-card.mc-active .mc-description {
+        padding: 30% 30px 30px 30px;
+    }
+}
+
+
+/*lista de votos por imagen*/
+.column {
+    float: left;
+    border: 1px solid #007bff;
+    border-radius: 50%;
+    top: 0;
+    width: 57px;
+    height: 57px;
+    margin-left: 5px;
+    z-index: 20;
+    overflow: hidden;
+    box-shadow: 0 3px 5px 0 #001f3f;
+}
+
+.container-fluid {
+    box-shadow: 0 0 10px 5px #000000;
+}
+
+#VTDisponibles {
+    margin-left: 10px;
+    color: black;
+}
+
+.circulo {
+    background: #74c333;
+    border: 2px solid darkgreen;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    border-radius: 0.8em;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 2.1em;
+    margin-right: 15px;
+    text-align: center;
+    width: 2.1em;
+}
+/******************************* CARD*/
+.mc-description {
+    z-index: 1;
+}
+
+.card-body {
+    padding: 10px 0 10px 0 !important;
+}
+/********************************/
+
+#btnVotar {
+    font-size: xx-large;
+}
+
+
+.mc-btn-action {
+    animation: colorchange 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colorchange {
+    0% {
+        border-color: yellow;
+    }
+
+    50% {
+        border-color: black;
+    }
+
+    100% {
+        border-color: yellow;
+    }
+}
+
+/*Dispositivos Móviles - 600px y menos*/
+@media only screen and (max-width: 600px) {
+    #nombreU {
+        display: none;
+    }
+}
+
+/*Dispositivos - 600px y más*/
+@media only screen and (min-width: 600px) {
+}
+
+#listaVotos {
+    position: absolute;
+    top: 60px;
+}
+
+#listaVotos2 .column {
+    width: 75px;
+    height: 75px;
+}
